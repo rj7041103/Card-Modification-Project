@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## What will be learned in the project?
+In this project, the information on the card will be altered, which is a child component that is used from the parent, where object-oriented programming will be practiced with concepts such as object abstraction and knowledge will also be obtained in the communication of components in angular with the @Input and @Output decorators, at the same time you will also learn the integration of NgModel from FormsModule, the management of variable states with signals for versions equal to or greater than 16 of angular is also used
